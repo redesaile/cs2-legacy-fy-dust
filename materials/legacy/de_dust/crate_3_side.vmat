@@ -35,7 +35,7 @@ Layer0
 
 	SystemAttributes
 	{
-		PhysicsSurfaceProperties "concrete"
+		PhysicsSurfaceProperties "Wood_Crate"
 	}
 
 
