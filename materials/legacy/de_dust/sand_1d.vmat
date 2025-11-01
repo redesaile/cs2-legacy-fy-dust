@@ -35,6 +35,31 @@ Layer0
 
 	SystemAttributes
 	{
-		PhysicsSurfaceProperties "concrete"
+		PhysicsSurfaceProperties "sand"
+	}
+
+
+	VariableState
+	{
+		"Ambient Occlusion"
+		{
+		}
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Lighting"
+		{
+			"Roughness" 0
+			"Metalness" 0
+		}
+		"Normal Map"
+		{
+		}
+		"Texture Address Mode"
+		{
+		}
 	}
 }
