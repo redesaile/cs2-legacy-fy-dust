@@ -5,7 +5,7 @@
 		type = "csgo_mega"
 		mixgroup = "Legacy"
 		vsnd_files_track_01 = "sounds/legacy/ambience/3dmeagle.vsnd"
-		volume = "0.3"
+		volume = "0.2"
 		distance_volume_mapping_curve = 
 		[
 			[ 0.0, 1.0 ],
