@@ -11,7 +11,7 @@ A Dust-themed version of the classic [Fy Snow](https://github.com/redesaile/cs2-
 <br> **Maximum players:** 32 (16 per team)
 
 ## Gallery
-![Screenshot 5 (Compressed)](https://github.com/user-attachments/assets/dbbedc3f-b972-44d0-ab93-caf19c1bf422)
+![Screenshot 4 (Compressed)](https://github.com/user-attachments/assets/1fd642f3-4b89-41c8-9352-31ab81c9b86e)
 
 ## License
 Do whatever you want. I don't care.
